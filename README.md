@@ -236,9 +236,8 @@ git push origin feature-name
 
 Computer Science Engineering Student
 
-GitHub: https://github.com/your-username
+GitHub:https://github.com/rishirajtiwari1608-png
 
-LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 
